@@ -8,7 +8,8 @@ Solutions to Paiza level-up problems
 
 ## Directory Structure
 
-| Directory                   | Description              |
-| --------------------------- | ------------------------ |
-| `algorithms/`               | Standard algorithm menus |
-| `algorithms/binary-search/` | Binary search problems   |
+| Directory                         | Description                  |
+| --------------------------------- | ---------------------------- |
+| `algorithms/`                     | Standard algorithm menus     |
+| `algorithms/binary-search/`       | Binary search problems       |
+| `algorithms/euclidean-algorithm/` | Euclidean algorithm problems |
